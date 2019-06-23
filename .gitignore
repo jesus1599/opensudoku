@@ -7,7 +7,7 @@ app/release/
 
 # Files for the ART/Dalvik VM
 *.dex
-
+#hola
 # Java class files
 *.class
 
